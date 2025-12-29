@@ -1,4 +1,4 @@
-<h1>Electronics Shop AI Agent Using Python Programming Language</h1>
+<h1>Automated Shop Assistant Using Python Programming Language</h1>
 <br>
 <br>
 <p>
